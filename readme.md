@@ -23,22 +23,15 @@ _**Notes:**_ pages must be responsive when changing viewport, for example:
 
 | ![](res/image/tourism_full.png)   | ![](res/image/tourism_mobile.png)     |![](res/image/tourism_ipad.png)     |
 | :------------- | :------------- | :------------- |
+|Laptop   | Mobile  | Tablet  |
 
 
 
 ## Demo
 
-Part 1 can be accessed from: <a href="Part1_DBI202x_ASM1_phupaFX07929.pdf" target="_blank">Part 1 - _Analyse and design database model_</a>
+The video demo can be seen via: https://www.youtube.com/watch?v=LbAusdabYoI
 
-[![](res/image/part1_databasedesign.png)]("Part1_DBI202x_ASM1_phupaFX07929.pdf")
-
-
-Part 2 can be accessed from: <a href="Part2_DBI202x_ASM2_phupaFX07929\DBI202x_ASM2_phupaFX07929.pdf">Part 2 - _Implement database design with Microsoft SQL Server_</a>
-
-[![](res/image/part2_databaseimplement.png)]("Part2_DBI202x_ASM2_phupaFX07929\DBI202x_ASM2_phupaFX07929.pdf")
-
+![](res/image/demo_tourism.gif)
 
 
 ## Further enhancement
-- Add an English version of files
-- Crawl data and inspect real online newspaper websites for better entity design
